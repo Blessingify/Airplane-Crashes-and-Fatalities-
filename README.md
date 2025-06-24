@@ -52,7 +52,7 @@ A detailed investigation should be conducted into the design and manufacturing o
 3. Enhanced Safety Protocols:
 Airline management should implement additional safety measures, including stricter pre-flight inspections, enhanced crew training, and improved emergency response procedures. Proactive risk management strategies must be deployed to minimize the likelihood of future incidents.
 
-
+✈️ ✈️ ✈️
 
 
 
