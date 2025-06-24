@@ -4,6 +4,9 @@
 
 This project showcases Boeing 707 accidents that have occurred since 1948 with over 5000 airplane crashes around the world.
 
+![Dashboard 1-2](https://github.com/user-attachments/assets/58f2d10b-9723-439c-9793-195cda3a2a14)
+[click here to interact with table](https://public.tableau.com/views/AirplaneCrash_17503530548780/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ### Data Sources
 This dataset was obtained from the Data Society. 
@@ -39,14 +42,14 @@ To get the Total Fatalities, a calculated feild was created and whcih included;
 3. The rate of plan crash have significantly increased from 1912 to 1972 but begane to decilne aroynd 1973.
 4. The Highest record of Airplane crash and Facatilies was recorded in 1972 with over 2937 fatalities and the lowest was recorded in 2009 with about 581 fatalities
 5. Tenerife canery island is recorded as the highest plane crash location.
-
+---
 ## RECOMMENDATION
 Based on the analysis, we recommend the following actions;
 1.	Comprehensive Pre-Flight Maintenance:
 Airline management should ensure that thorough maintenance checks are conducted on all aircraft, particularly after each drop-off. All systems and equipment must be verified as fully operational before takeoff to guarantee passenger and crew safety.
 2.  In-Depth Investigation into Douglas DC-3 Manufacturing:
 A detailed investigation should be conducted into the design and manufacturing of the Douglas DC-3 aircraft to determine any underlying issues contributing to repeated crashes. This research should involve collaboration with aviation experts, engineers, and regulatory bodies to identify and address any potential flaws.
-	3.	Enhanced Safety Protocols:
+3. Enhanced Safety Protocols:
 Airline management should implement additional safety measures, including stricter pre-flight inspections, enhanced crew training, and improved emergency response procedures. Proactive risk management strategies must be deployed to minimize the likelihood of future incidents.
 
 
