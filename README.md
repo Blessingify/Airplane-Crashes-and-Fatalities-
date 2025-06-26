@@ -17,7 +17,7 @@ This dataset was obtained from the Data Society.
 - Tableau - Analysis/ Creationg Report
 
 ### Data Cleaning/ Preparation 
-In the initial data paration phase, we perform the following tasks:
+In the initial data preparation phrase, we perform the following tasks:
 1. Data loading and inspection.
 2.  Handling missing  values.
 3.  Data cleaning and formatting.
