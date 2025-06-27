@@ -4,7 +4,9 @@
 
 This project showcases Airplane Crashes and Fatalities with over 5000 airplane crashes between 1912 -2006 around the world.
 
-![Dashboard 1-2](https://github.com/user-attachments/assets/58f2d10b-9723-439c-9793-195cda3a2a14)
+
+![Dashboard 1-3](https://github.com/user-attachments/assets/354e18c2-4ea9-4de2-bd80-41c0a85bb8b8)
+
 [click here to interact with table](https://public.tableau.com/views/AirplaneCrash_17503530548780/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
@@ -35,8 +37,8 @@ In the initial data preparation phrase, we perform the following tasks:
 - The data was analyzed and cleaned using Excel and export to Tableau for visualization . 
 - 	The were no missing values or duplicates.
 - 	Some calculation were done in getting the total Airplane Crashes and Fatalities
-- The data was limited to the top 10 to discover the aircraft, operator and location with the hihgest crash rate 
-- 	Trend analysis was done to check between 1912 to 2006 on how airplane crash has increased or depricated over time.
+- The data was limited to the top 10 to discover the aircraft, operator and location with the highest crash rate 
+- 	Trend analysis was done to check between 1912 to 2006 on how airplane crash has increased or deprecated over time.
   
 ### Data Analysis 
 To get the Total Fatalities, a calculated feild was created in Tableau which included;
