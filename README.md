@@ -48,7 +48,7 @@ To get the Total Fatalities, a calculated feild was created in Tableau which inc
 
 ### Results/Findings
   The analysis results area summarized as follows:
-  1. The total on board were 144,551, but only 30,752 survived.
+  1. There total on board were 144,551, but only 30,752 survived.
   2. Douglas DC 3 has shown to have the higest plane crash with total of 334 which is three times higher than the next plane carsh.
   3. The rate of plan crash have significantly increased from 1912 to 1972 but began to decilne around 1973.
   4. The Highest record of Airplane crash and Facatilies was recorded in 1972 with over 2937 fatalities and the lowest was recorded in 2009 with about 581 fatalities
