@@ -2,35 +2,44 @@
 
 ## Project overview
 
-This project showcases Boeing 707 accidents that have occurred since 1948 with over 5000 airplane crashes around the world.
+This project showcases Airplane Crashes and Fatalities with over 5000 airplane crashes between 1912 -2006 around the world.
 
 ![Dashboard 1-2](https://github.com/user-attachments/assets/58f2d10b-9723-439c-9793-195cda3a2a14)
 [click here to interact with table](https://public.tableau.com/views/AirplaneCrash_17503530548780/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ### Data Sources
-This dataset was obtained from the Data Society. 
+This dataset was obtained from 'The Data Society'. 
 
 
 ### Tools
 - Excel - Data Cleaning
-- Tableau - Analysis/ Creationg Report
+- Tableau - Analysis/ Visualisation Report
 
 ### Data Cleaning/ Preparation 
 In the initial data preparation phrase, we perform the following tasks:
-1. Data loading and inspection.
-2.  Handling missing  values.
-3.  Data cleaning and formatting.
+1.  Data loading and inspection.
+2.  Checking for missing values.
+3.  Data formatting and creating Dashboard.
 
 
 ### Exploratory Data Analysis
 - What's the total survival?
 - What type of aircraft is involved in the most crashes
 - Highest Fatalities by Location
-- Airplane with the crash rate
+- Operators with the highest crash rate
 
+
+## Medothology
+
+- The data was analyzed and cleaned using Excel and export to Tableau for visualization . 
+- 	The were no missing values or duplicates.
+- 	Some calculation were done in getting the total Airplane Crashes and Fatalities
+- The data was limited to the top 10 to discover the aircraft, operator and location with the hihgest crash rate 
+- 	Trend analysis was done to check between 1912 to 2006 on how airplane crash has increased or depricated over time.
+  
 ### Data Analysis 
-To get the Total Fatalities, a calculated feild was created and whcih included;
+To get the Total Fatalities, a calculated feild was created in Tableau which included;
 ```Tableau
  [Fatalities] + [Ground]
 ```
@@ -38,10 +47,10 @@ To get the Total Fatalities, a calculated feild was created and whcih included;
 ### Results/Findings
   The analysis results area summarized as follows:
   1. The total on board were 144,551, but only 30,752 survived.
-  2. Douglas DC 3 has shown to have the higest plane crash with over aircraft crash 334 which is three times higher than tyhe next plane carsh.
-3. The rate of plan crash have significantly increased from 1912 to 1972 but begane to decilne aroynd 1973.
-4. The Highest record of Airplane crash and Facatilies was recorded in 1972 with over 2937 fatalities and the lowest was recorded in 2009 with about 581 fatalities
-5. Tenerife canery island is recorded as the highest plane crash location.
+  2. Douglas DC 3 has shown to have the higest plane crash with total of 334 which is three times higher than the next plane carsh.
+  3. The rate of plan crash have significantly increased from 1912 to 1972 but began to decilne around 1973.
+  4. The Highest record of Airplane crash and Facatilies was recorded in 1972 with over 2937 fatalities and the lowest was recorded in 2009 with about 581 fatalities
+ 5. Tenerife canery island is recorded as the highest plane crash by location.
 ---
 ## RECOMMENDATION
 Based on the analysis, we recommend the following actions;
