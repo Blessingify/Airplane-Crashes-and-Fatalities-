@@ -1,4 +1,4 @@
-# Boeing 707 Airplane Crashes and Fatalities Overview
+# Airplane Crashes and Fatalities Overview
 
 ## Project overview
 
