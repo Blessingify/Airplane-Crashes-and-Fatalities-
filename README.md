@@ -41,7 +41,7 @@ In the initial data preparation phrase, we perform the following tasks:
 - 	Trend analysis was done to check between 1912 to 2006 on how airplane crash has increased or deprecated over time.
   
 ### Data Analysis 
-To get the Total Fatalities, a calculated feild was created in Tableau which included;
+To get the Total Fatalities, a calculated field was created in Tableau which included;
 ```Tableau
  [Fatalities] + [Ground]
 ```
